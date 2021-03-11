@@ -1239,10 +1239,10 @@
   resolved "https://registry.yarnpkg.com/@clr/city/-/city-1.1.0.tgz#4a444cd12c626d66ffadab27e9d09bb3c8eca352"
   integrity sha512-R+C4uywmXoTD01LINOt3O0cBRviQdbAVNxdVvOyuO3+rM9bvFroF7UZY0R1ue/xvKXlqJrEkNKZQODeKjzaAhA==
 
-"@clr/core@^3.1.4":
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/@clr/core/-/core-3.1.4.tgz#5d303666ed25f93905c86d7107983af88f43dc49"
-  integrity sha512-Y1wZiU7TiBoB3VpAOcokyFF/YCqHnXhD/4Fb13eSer/50M0PlOuOLO7S650LmtHZzw1bCsTK1b4DPcTYMd9bKg==
+"@clr/core@^3.1.15":
+  version "3.1.15"
+  resolved "https://registry.yarnpkg.com/@clr/core/-/core-3.1.15.tgz#5c707f69d72a675ed488cba095d7d68bfffbdc0d"
+  integrity sha512-I9oo/JtLENUyltXLBMZWsN3qOFiiKIki0zqD6exMtQtrnnuFVSJjN6fUCK4j+bjeyPe2eA7ecmCG0fdpUF5zQg==
   dependencies:
     css-vars-ponyfill "^2.1.2"
     lit-element "^2.2.1"
