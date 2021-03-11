@@ -5,7 +5,7 @@
   "homepage": "./",
   "dependencies": {
     "@clr/city": "^1.1.0",
-    "@clr/core": "^3.1.4",
+    "@clr/core": "^3.1.15",
     "@clr/ui": "^2.3.4",
     "@types/diff": "^4.0.2",
     "@types/js-yaml": "^3.10.1",
